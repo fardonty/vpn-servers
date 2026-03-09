@@ -1,0 +1,20 @@
+[
+  {
+    "id": "nl_1",
+    "name": "Netherlands 1",
+    "country": "Нидерланды",
+    "city": "Amsterdam",
+    "host": "1.1.1.1",
+    "port": 53,
+    "proto": "tcp"
+  },
+  {
+    "id": "de_1",
+    "name": "Germany 1",
+    "country": "Германия",
+    "city": "Frankfurt",
+    "host": "8.8.8.8",
+    "port": 53,
+    "proto": "tcp"
+  }
+]
